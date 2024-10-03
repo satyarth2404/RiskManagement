@@ -222,7 +222,7 @@
   "API_BUSINESS_PARTNER.A_AddressPhoneNumber": {
    "kind": "entity",
    "@cds.external": true,
-   "@cds.persistence.skip": true,
+   "@cds.persistence.skip": true, 
    "@sap.content.version": "1",
    "@sap.label": "Phone Number",
    "elements": {
